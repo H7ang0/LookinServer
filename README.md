@@ -1,5 +1,3 @@
-以下是更新后的 README 文件，加入了免越狱使用说明和 Telegram 群组信息：
-
 LookinServer 插件调试 iOS UI
 
 通过本项目，您可以使用 LookinServer 在 macOS 上调试 iOS 应用程序的界面。只需注入自签名的 LookinServer.dylib，即可快速启动调试模式，实时查看和修改应用的 UI 布局。
