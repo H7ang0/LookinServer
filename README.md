@@ -52,7 +52,7 @@ ipainject TargetApp.ipa LookinServer.dylib
 参与讨论
 
 欢迎加入 Telegram 群组与我们交流：
-👉 HyanguChat
+👉 HyanguChat[加入 Telegram 群组](https://t.me/HyanguChat)
 
 开发者
 	•	作者: Hyangu
