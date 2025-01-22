@@ -53,10 +53,7 @@ ipainject TargetApp.ipa LookinServer.dylib
 
 欢迎加入 Telegram 群组与我们交流：
 👉 HyanguChat[加入 Telegram 群组](https://t.me/HyanguChat)
-
-开发者
-	•	作者: Hyangu
-	•	官网: youkebing.com
-	•	联系邮箱: support@youkebing.com
+生命
+ ·解压出来的动态库不是二次开发
 
 尽情享受高效的 UI 调试体验！
